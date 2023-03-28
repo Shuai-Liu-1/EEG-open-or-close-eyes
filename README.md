@@ -1,4 +1,4 @@
-# EEG-open-or-close-eyes
+# Using Machine Learning to Classification EEG Signals 
 Training a classifier to separate EO and EC conditions from training samples and identifying labels for test samples.
 
 
